@@ -28,39 +28,34 @@
 
 ---
 
-### 📈 Minhas Estatísticas
+### 📈 Resumo do Perfil
 
 <div align="center">
-  <a href="https://github.com/Rafael130414">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rafael130414&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Desenvolvedor-Fullstack-0D1117?style=for-the-badge&logo=codeigniter&logoColor=478CFF" alt="Fullstack" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Foco-Automação_e_SaaS-0D1117?style=for-the-badge&logo=apachespark&logoColor=FFB000" alt="Automação" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Projetos-6%20Sistemas-0D1117?style=for-the-badge&logo=git&logoColor=A371F7" alt="Projetos" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tech-TypeScript_&_Python-0D1117?style=for-the-badge&logo=github&logoColor=238636" alt="Techs" />
 </div>
 
 
 
 ---
 
-### 📁 Projetos em destaque
+### � Meus Sistemas & Projetos
 
-<div align="center">
-  <!-- Projeto Público (Card Dinâmico Funciona) -->
-  <a href="https://github.com/Rafael130414/CHatboot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael130414&repo=CHatboot&theme=dracula&hide_border=true&bg_color=0D1117" height="120" alt="CHatboot Badge" />
-  </a>
-</div>
+Aqui estão as soluções desenvolvidas por mim. A maioria envolve infraestrutura de negócio, por isso são mantidas em formato privado:
 
-<br>
-
-### 🔒 Meus Sistemas Privados
-Como a maioria das minhas soluções envolve infraestrutura e lógica confidencial de negócio, estruturo elas de forma privada. Aqui estão as tecnologias base das minhas implantações restritas:
-
-| Nome do App | Tech Stack | Status do Código |
-| :--- | :---: | :---: |
-| 📦 **Requerimento de material** | `TypeScript` | 🔒 Confidencial |
-| ✂️ **Venturas Barbearia** | `Python` | 🔒 Confidencial |
-| 🕹️ **Controller** | `JavaScript` | 🔒 Confidencial |
-| 🍢 **Espetinho Controle** | `TypeScript` | 🔒 Confidencial |
-| 🛠️ **Oficina Mecânica** | `TypeScript` | 🔒 Confidencial |
+| Nome do App | Tech Stack | Visibilidade | Status |
+| :--- | :---: | :---: | :---: |
+| 🤖 **[CHatboot](https://github.com/Rafael130414/CHatboot)** | `TypeScript` | 🌐 Público | Ativo |
+| 📦 **Requerimento de material** | `TypeScript` | 🔒 Privado | Confidencial |
+| ✂️ **Venturas Barbearia** | `Python` | 🔒 Privado | Confidencial |
+| 🕹️ **Controller** | `JavaScript` | 🔒 Privado | Confidencial |
+| 🍢 **Espetinho Controle** | `TypeScript` | 🔒 Privado | Confidencial |
+| 🛠️ **Oficina Mecânica** | `TypeScript` | 🔒 Privado | Confidencial |
 
 ---
 
