@@ -35,11 +35,7 @@
   <img src="stats.png" alt="Minhas Estatísticas" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Rafael130414">
-    <img src="https://streak-stats.demolab.com?user=Rafael130414&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
+
 
 ---
 
