@@ -31,8 +31,9 @@
 ### 📈 Minhas Estatísticas
 
 <div align="center">
-  <!-- Imagem com as estatísticas exatas geradas/editadas por você -->
-  <img src="stats.png" alt="Minhas Estatísticas" width="100%" />
+  <a href="https://github.com/Rafael130414">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rafael130414&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub" />
+  </a>
 </div>
 
 
@@ -42,19 +43,24 @@
 ### 📁 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/Rafael130414/botzap-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael130414&repo=botzap-pro&theme=dracula&hide_border=true&bg_color=0D1117" height="120" />
-  </a>
-  <a href="https://github.com/Rafael130414/saas-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael130414&repo=saas-manager&theme=dracula&hide_border=true&bg_color=0D1117" height="120" />
-  </a>
-  <a href="https://github.com/Rafael130414/api-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael130414&repo=api-connect&theme=dracula&hide_border=true&bg_color=0D1117" height="120" />
-  </a>
-  <a href="https://github.com/Rafael130414/infra-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael130414&repo=infra-monitor&theme=dracula&hide_border=true&bg_color=0D1117" height="120" />
+  <!-- Projeto Público (Card Dinâmico Funciona) -->
+  <a href="https://github.com/Rafael130414/CHatboot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael130414&repo=CHatboot&theme=dracula&hide_border=true&bg_color=0D1117" height="120" alt="CHatboot Badge" />
   </a>
 </div>
+
+<br>
+
+### 🔒 Meus Sistemas Privados
+Como a maioria das minhas soluções envolve infraestrutura e lógica confidencial de negócio, estruturo elas de forma privada. Aqui estão as tecnologias base das minhas implantações restritas:
+
+| Nome do App | Tech Stack | Status do Código |
+| :--- | :---: | :---: |
+| 📦 **Requerimento de material** | `TypeScript` | 🔒 Confidencial |
+| ✂️ **Venturas Barbearia** | `Python` | 🔒 Confidencial |
+| 🕹️ **Controller** | `JavaScript` | 🔒 Confidencial |
+| 🍢 **Espetinho Controle** | `TypeScript` | 🔒 Confidencial |
+| 🛠️ **Oficina Mecânica** | `TypeScript` | 🔒 Confidencial |
 
 ---
 
