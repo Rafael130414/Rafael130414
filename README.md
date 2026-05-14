@@ -1,64 +1,100 @@
 <div align="center">
-  <!-- Imagem de Banner Temporária. Substitua o link do src abaixo pela sua imagem quando criá-la no Canva -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Transformo%20ideias%20em%20Solu%C3%A7%C3%B5es%20Inteligentes&fontSize=40&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20focado%20em%20Automa%C3%A7%C3%A3o%20e%20SaaS&descAlignY=60" alt="Banner Transformo ideias em Soluções Inteligentes" width="100%">
+  <!-- Você pode trocar a URL abaixo pela sua imagem (ex: banner.png) quando criá-la! -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rafael%20|%20Desenvolvedor&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Transformo%20ideias%20em%20Solu%C3%A7%C3%B5es%20Inteligentes&descAlignY=55" alt="Banner" width="100%">
 </div>
 
 <br>
 
-<!-- LINHA DE ESTATÍSTICAS E SOBRE MIM -->
 <div align="center">
-  <table width="100%" border="0">
+  <img src="https://img.shields.io/badge/Desenvolvedor-Fullstack-2ea44f?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Foco-Automa%C3%A7%C3%A3o%20e%20SaaS-0366d6?style=for-the-badge&logo=docker&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%C3%B3digo-100%25%20Autoral-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h3>🧠 Sobre mim</h3>
-        <p>Apaixonado por tecnologia e por criar soluções que realmente fazem a diferença.</p>
-        <p>Atuo desenvolvendo aplicações escaláveis, automatizando processos e integrando sistemas que geram resultado.</p>
-        <p>Sempre aprendendo, sempre construindo.</p>
-        <em>“Código é lógica. Automação é liberdade.”</em>
+      <td width="48%" align="center" valign="top">
+        <h2>👨‍💻 Sobre Mim</h2>
+        <p align="left">
+          Apaixonado por tecnologia e arquitetura de software.<br><br>
+          Atuo desenvolvendo <b>aplicações escaláveis</b>, automatizando processos complexos e integrando sistemas que geram <b>resultados reais</b>.<br><br>
+          <em>"Código é lógica. Automação é liberdade."</em>
+        </p>
       </td>
-      <td width="50%" valign="top">
-        <h3>🚀 Tecnologias</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,py,postgres,mongo,docker,linux,git,aws&perline=4" alt="Tecnologias que utilizo" width="100%" />
-        </div>
+      <td width="4%"></td>
+      <td width="48%" align="center" valign="top">
+        <h2>🚀 Tecnologias</h2>
+        <br>
+        <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,postgres,mongo,docker,linux,aws,git&perline=4" alt="Tech Stack" />
       </td>
     </tr>
   </table>
 </div>
 
----
+<br><br>
 
-### 📈 Resumo do Perfil
+## 💼 Portfólio de Sistemas
+
+Como a maior parte das minhas soluções atua diretamente no *core business* dos clientes (lógica confidencial e infraestrutura), elas estão hospedadas em repositórios fechados sob fortes chaves de segurança. Abaixo um resumo do meu portfólio de atuação:
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%" align="left">📦 Projeto / Sistema</th>
+      <th width="25%" align="center">💻 Stack Principal</th>
+      <th width="20%" align="center">🌐 Visibilidade</th>
+      <th width="20%" align="center">⚡ Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Rafael130414/CHatboot">🤖 CHatboot</a></b></td>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td align="center">🟢 <b>Público</b></td>
+      <td align="center">Ativo</td>
+    </tr>
+    <tr>
+      <td><b>📦 Requerimento de Material</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td align="center">🔒 Privado</td>
+      <td align="center">Em Produção</td>
+    </tr>
+    <tr>
+      <td><b>✂️ Venturas Barbearia</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+      <td align="center">🔒 Privado</td>
+      <td align="center">Em Produção</td>
+    </tr>
+    <tr>
+      <td><b>🕹️ Controller</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+      <td align="center">🔒 Privado</td>
+      <td align="center">Confidencial</td>
+    </tr>
+    <tr>
+      <td><b>🍢 Espetinho Controle</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td align="center">🔒 Privado</td>
+      <td align="center">Em Produção</td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Oficina Mecânica</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
+      <td align="center">🔒 Privado</td>
+      <td align="center">Em Produção</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-Fullstack-0D1117?style=for-the-badge&logo=codeigniter&logoColor=478CFF" alt="Fullstack" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Foco-Automação_e_SaaS-0D1117?style=for-the-badge&logo=apachespark&logoColor=FFB000" alt="Automação" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Projetos-6%20Sistemas-0D1117?style=for-the-badge&logo=git&logoColor=A371F7" alt="Projetos" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tech-TypeScript_&_Python-0D1117?style=for-the-badge&logo=github&logoColor=238636" alt="Techs" />
-</div>
-
-
-
----
-
-### � Meus Sistemas & Projetos
-
-Aqui estão as soluções desenvolvidas por mim. A maioria envolve infraestrutura de negócio, por isso são mantidas em formato privado:
-
-| Nome do App | Tech Stack | Visibilidade | Status |
-| :--- | :---: | :---: | :---: |
-| 🤖 **[CHatboot](https://github.com/Rafael130414/CHatboot)** | `TypeScript` | 🌐 Público | Ativo |
-| 📦 **Requerimento de material** | `TypeScript` | 🔒 Privado | Confidencial |
-| ✂️ **Venturas Barbearia** | `Python` | 🔒 Privado | Confidencial |
-| 🕹️ **Controller** | `JavaScript` | 🔒 Privado | Confidencial |
-| 🍢 **Espetinho Controle** | `TypeScript` | 🔒 Privado | Confidencial |
-| 🛠️ **Oficina Mecânica** | `TypeScript` | 🔒 Privado | Confidencial |
-
----
-
-<div align="center">
-  <i>Vamos construir algo incrível juntos! 🤝</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Vamos%20construir%20algo%20incr%C3%ADvel%20juntos!%20%F0%9F%A4%9D&fontSize=24" width="100%">
 </div>
